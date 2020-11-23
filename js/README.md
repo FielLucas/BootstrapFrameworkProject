@@ -1,1 +1,1 @@
-http://netdeneg.com/
+https://netdeneg.com/00/
